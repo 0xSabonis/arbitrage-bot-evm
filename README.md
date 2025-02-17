@@ -24,4 +24,8 @@ As well as the following decentralised exchanges right out of the box:
 - Pancakeswap V3
 - Pancakeswap V2
 
+# Contact
+
+### Telegram: [dogewhiz](https://t.me/dogewhiz)   
+https://t.me/dogewhiz
 
